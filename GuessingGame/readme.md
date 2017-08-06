@@ -1,4 +1,5 @@
 https://juliaskiff.github.io/JS-practices-/GuessingGame/guessinggame.html 
+
 This is the simple color guessing game.
 The objective of the game is to guess the color which the program is thinking of. The player needs to enter their guess.
 A response from the browser will then be shown.
